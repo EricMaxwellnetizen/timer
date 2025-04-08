@@ -8,8 +8,6 @@ A simple timer application.
 
 This project implements a basic timer with start, pause, and reset functionalities. It provides a user-friendly interface for tracking time.
 
-**Copyright (c) [2025] [Your Name/GitHub Username]. All rights reserved.**
-
 ## Screenshot
 
 Click on the image to view the full-size version:
@@ -58,4 +56,4 @@ The code for this timer project is under your copyright. The screenshot is licen
 
 ## Author
 
-[Your Name/GitHub Username]
+[Your Name/GitHub EricMaxwellnetizen]
