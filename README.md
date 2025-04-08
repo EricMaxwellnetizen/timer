@@ -56,4 +56,4 @@ The code for this timer project is under your copyright. The screenshot is licen
 
 ## Author
 
-[Your Name/GitHub EricMaxwellnetizen]
+[Simon /GitHub EricMaxwellnetizen]
