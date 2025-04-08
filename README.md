@@ -1,6 +1,6 @@
 # timer
 <div class="img-container">
-    <img src="https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png" alt="Image" class="zoom-image">
+    <img src="https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png" class="zoom-image">
 </div>
 .img-container {
     position: relative; /* Required for absolute positioning of the zoom area */
@@ -10,7 +10,7 @@
 }
 
 .zoom-image {
-    width: 100%; /* Make the image fill the container */
+    width: 200%; /* Make the image fill the container */
     height: auto; /* Maintain aspect ratio */
     transition: transform 0.3s ease; /* Smooth zoom transition */
 }
