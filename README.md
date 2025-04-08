@@ -8,54 +8,15 @@ A simple timer application.
 
 This project implements a basic timer with start, pause, and reset functionalities. It provides a user-friendly interface for tracking time.
 
+**Copyright (c) [2025] [Your Name/GitHub Username]. All rights reserved.**
+
 ## Screenshot
 
-Click on the image to zoom in/out:
+Click on the image to view the full-size version:
 
-[![Timer Screenshot](https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png)](https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png)
+[![Timer Screenshot](https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png?raw=true)](https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png?raw=true)
 
 *The screenshot is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).*
-
-<style>
-.image-container {
-  overflow: hidden; /* Hide overflow during zoom */
-  cursor: zoom-in; /* Indicate it's zoomable */
-  width: 300px; /* Initial width */
-  height: auto;
-  border: 1px solid #ccc; /* Optional border */
-}
-
-.image-container img {
-  transition: transform 0.3s ease-in-out; /* Smooth zoom transition */
-  transform-origin: center center; /* Zoom from the center */
-  display: block; /* Prevent extra space below image */
-  width: 100%; /* Make image fill container initially */
-  height: auto;
-}
-
-.image-container.zoomed {
-  cursor: zoom-out;
-}
-
-.image-container.zoomed img {
-  transform: scale(2); /* Adjust the zoom level as needed */
-}
-</style>
-
-<div class="image-container">
-  <a href="https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png" target="_blank">
-    <img id="zoomable-image" src="https://github.com/EricMaxwellnetizen/timer/blob/main/ssz.png" alt="Timer Screenshot">
-  </a>
-</div>
-
-<script>
-const imageContainer = document.querySelector('.image-container');
-const zoomableImage = document.getElementById('zoomable-image');
-
-imageContainer.addEventListener('click', () => {
-  imageContainer.classList.toggle('zoomed');
-});
-</script>
 
 ## Features
 
@@ -97,4 +58,4 @@ The code for this timer project is under your copyright. The screenshot is licen
 
 ## Author
 
-[Your Name/GitHub EricMaxwellnetizen]
+[Your Name/GitHub Username]
